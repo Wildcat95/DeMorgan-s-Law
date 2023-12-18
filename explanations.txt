@@ -1,0 +1,50 @@
+"not (A or B)" is logically equivalent to "not (A) and not (B)" because according to De Morgan's First Law, the negation of two variables being OR'ed is equal to the AND of their complements.
+"not (A and B)" is logically equivalent to "not (A) or not (B)" because according to De Morgan's Second Law, the negation of two variables being AND'ed is equal to the OR of their complements.
+"not ((A) and not (B))" is logically equivalent to "not (A) or B" because according to De Morgan's Second Law, the negation of two variables being AND'ed is equal to the OR of their complements. "not (B)" would become "B" in this case.
+"not (not (A) or B)" is logically equivalent to "(A) and not (B)" because according to De Morgan's First Law, the negation of two variables being OR'ed is equal to the AND of their complements. "not (A)" would become "A" in this case.
+not (not (A or B) and not (A or B)) is logically equivalent to "(not (A) and not (B)) or (not (A) and not (B))" by way of a combination of De Morgan's First and Second laws. Negating both "A or B" operations results in "not (A) and not (B)", and since the entire problem is negated, both operations are OR'ed.
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1
+explanation 1

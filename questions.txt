@@ -1,0 +1,250 @@
+Question 1: not (A or B)
+not (A) and not (B)
+not (A and B)
+A and B
+not (A) or not (B)
+Question 2: not (A and B)
+not (A or B)
+not (A) and not (B)
+A and B
+not (A) or not (B)
+Question 3: not ((A) and not (B))
+not (A) or B
+A and not (B)
+not (A) and B
+A or not (B)
+Question 4: not (not (A) or B)
+not (A) and (B)
+(A) or not (B)
+(A) and not (B)
+not (A) or (B)
+Question 5: not (not (A or B) and not (A or B))
+(A or B) and (A or B)
+(not (A) and not (B)) or (not (A) and not (B))
+(A and B) or (A and B)
+(not (A) or not (B)) and (not (A) or not (B))
+Question number 6
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 7
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 8
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 9
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 10
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 11
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 12
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 13
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 14
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 15
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 16
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 17
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 18
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 19
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 20
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 21
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 22
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 23
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 24
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 25
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 26
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 27
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 28
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 29
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 30
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 31
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 32
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 33
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 34
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 35
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 36
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 37
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 38
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 39
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 40
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 41
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 42
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 43
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 44
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 45
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 46
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 47
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 48
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 49
+answer 1
+answer 2
+answer 3
+answer 4
+Question number 50
+answer 1
+answer 2
+answer 3
+answer 4
